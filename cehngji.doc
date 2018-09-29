@@ -1,0 +1,303 @@
+
+<html>
+<head>
+<meta content="text/html; charset=gb2312" http-equiv="Content-Type">
+<title>成绩单</title>
+<style type="text/css">
+td,p,li {font-family:宋体;font-size:13px;}
+#id1 {mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt}
+#tid {mso-border-top-alt:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt}
+#bid {mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext 1.0pt;mso-border-left-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt}
+#id2 {mso-border-right-alt:solid windowtext 1.5pt;}
+A:link {text-decoration: none; color: 0000ff;font-size:12px}
+A:visited {text-decoration: underline; color: 000080;font-size:12px}
+A:active {text-decoration: none;font-size:12px}
+A:hover {text-decoration: underline; color: ff0000;font-size:12px}
+A.a:link {text-decoration: underline; color: 0000ff;font-size:16px}
+A.a:visited {text-decoration: underline; color: 000080;font-size:16px}
+A.a:active {text-decoration: none;font-size:16px}
+A.a:hover {text-decoration: underline; color: ff0000;font-size:16px}
+</style>
+</head>
+<body topmargin="0" leftmargin="0">
+
+
+  <TABLE  width=610 border=0 cellspacing="0" cellpadding="0" align=center ID="Table1">
+  <tr><td>
+          <TABLE border=0 cellspacing="0" cellpadding="1" width=610>
+            <TR><TD align=center><FONT size=4><B>华东理工大学攻读硕士学位研究生总成绩单</B></FONT>
+            <TR><TD align=right>制表日期：2018-9-19
+          </Table>
+<!--          
+          <TABLE border=0 cellspacing="0" cellpadding="1" width=600 bordercolor=#000000>
+            <TR height=25 align=center>
+                <TD width=50 id=tid>学号
+                <td width=80 id=tid><b>Y30160643</b></td>
+                <TD width=50 id=tid>姓名
+                <TD width=94 id=tid><b>李盼盼</b><br>
+                <TD width=50 id=tid>专业
+                <TD id=tid><b>控制科学与工程</b><br>
+          </Table>
+          -->
+          <TABLE border=0 cellspacing="0" cellpadding="1" width=610 bordercolor=#000000>
+          <TR height=25 align=center>
+                   <TD width=55 id=id1>学号
+                   <td width=80 id=id1><b>Y30160643</b></td>
+                   <TD width=55 id=id1>姓名
+                   <TD width=100 id=id1><b>李盼盼</b>
+             <TD width=110 id=id1>专&nbsp;&nbsp;业
+             <TD width=210 id=id1 colspan=4>
+                      <b>控制科学与工程</b><br>
+          </tr>
+          <TR height=25 align=center>
+             <td width=290 id=id1 colspan=4>课程名称</td>
+             <TD width=110 id=id1>课程类别
+             <TD width=40 id=id1>学分
+             <TD width=60 id=id1>考试方式
+             <TD width=50 id=id1>总成绩
+             <TD width=60 id=id1>学习时间
+          </tr>
+
+
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101B101多变量系统理论
+            <td align=center width=110 id=id1>专业核心课 (学位课)<br>
+            <td align=center width=40 id=id1>3<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>82<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101B102最优控制与状态估计
+            <td align=center width=110 id=id1>专业核心课 (学位课)<br>
+            <td align=center width=40 id=id1>4<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>83<br>
+            
+            <td align=center width=60 id=id1>2017春
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101B103系统辨识
+            <td align=center width=110 id=id1>专业核心课 (学位课)<br>
+            <td align=center width=40 id=id1>4<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>72<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101C007控制科学与工程前沿讲座
+            <td align=center width=110 id=id1>专业选修课(非学位课)<br>
+            <td align=center width=40 id=id1>1<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>70<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101C185工程实践（控）
+            <td align=center width=110 id=id1>专业选修课(非学位课)<br>
+            <td align=center width=40 id=id1>1<br> 
+            <td align=center width=60 id=id1>其他<br>
+            
+              <td align=center width=50 id=id1>良<br>
+            
+            <td align=center width=60 id=id1>2017春
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>006M070100A006矩阵理论
+            <td align=center width=110 id=id1>公共课(学位课)<br>
+            <td align=center width=40 id=id1>3<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>69<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>009M010100A001自然辩证法概论（理科）
+            <td align=center width=110 id=id1>公共课(学位课)<br>
+            <td align=center width=40 id=id1>1<br> 
+            <td align=center width=60 id=id1>开卷考试<br>
+            
+              <td align=center width=50 id=id1>86<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>009M030500A002中国特色社会主义理论与实践研究
+            <td align=center width=110 id=id1>公共课(学位课)<br>
+            <td align=center width=40 id=id1>2<br> 
+            <td align=center width=60 id=id1>开卷考试<br>
+            
+              <td align=center width=50 id=id1>86<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>011M050200A009国际英语交流
+            <td align=center width=110 id=id1>公共课(学位课)<br>
+            <td align=center width=40 id=id1>1<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>80<br>
+            
+            <td align=center width=60 id=id1>2017春
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>011M050200A010高级英语阅读
+            <td align=center width=110 id=id1>公共课(学位课)<br>
+            <td align=center width=40 id=id1>1<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>75<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>011M050200A011学术英语写作
+            <td align=center width=110 id=id1>公共课(学位课)<br>
+            <td align=center width=40 id=id1>1<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>66<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>014M040300D002体育健身（必修）
+            <td align=center width=110 id=id1>综合素养课(非学位课)<br>
+            <td align=center width=40 id=id1>1<br> 
+            <td align=center width=60 id=id1>其他<br>
+            
+              <td align=center width=50 id=id1>85<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101B104智能传感技术
+            <td align=center width=110 id=id1>专业核心课 (学位课)<br>
+            <td align=center width=40 id=id1>2<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>92<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101C010预测控制
+            <td align=center width=110 id=id1>专业选修课(非学位课)<br>
+            <td align=center width=40 id=id1>2<br> 
+            <td align=center width=60 id=id1>开卷考试<br>
+            
+              <td align=center width=50 id=id1>83<br>
+            
+            <td align=center width=60 id=id1>2017春
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101C012自适应控制
+            <td align=center width=110 id=id1>专业选修课(非学位课)<br>
+            <td align=center width=40 id=id1>2<br> 
+            <td align=center width=60 id=id1>开卷考试<br>
+            
+              <td align=center width=50 id=id1>78<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101C016网络化控制
+            <td align=center width=110 id=id1>专业选修课(非学位课)<br>
+            <td align=center width=40 id=id1>2<br> 
+            <td align=center width=60 id=id1>论文<br>
+            
+              <td align=center width=50 id=id1>83<br>
+            
+            <td align=center width=60 id=id1>2017春
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101C018现场总线与无线传感器网络
+            <td align=center width=110 id=id1>专业选修课(非学位课)<br>
+            <td align=center width=40 id=id1>2<br> 
+            <td align=center width=60 id=id1>论文<br>
+            
+              <td align=center width=50 id=id1>84<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>005M081101C109非线性控制
+            <td align=center width=110 id=id1>专业选修课(非学位课)<br>
+            <td align=center width=40 id=id1>2<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>84<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>006M070100A002最优化方法
+            <td align=center width=110 id=id1>公共课(学位课)<br>
+            <td align=center width=40 id=id1>2<br> 
+            <td align=center width=60 id=id1>闭卷考试<br>
+            
+              <td align=center width=50 id=id1>78<br>
+            
+            <td align=center width=60 id=id1>2017春
+        </tr>
+     
+        <tr height=23>
+            <td width=290 id=id1 colspan=4>015M030100D001研究生劳动就业法律问题解读（慕课MOOC课程）
+            <td align=center width=110 id=id1>综合素养课(非学位课)<br>
+            <td align=center width=40 id=id1>1<br> 
+            <td align=center width=60 id=id1>论文<br>
+            
+              <td align=center width=50 id=id1>95<br>
+            
+            <td align=center width=60 id=id1>2016秋
+        </tr>
+     
+            <TR height=25>
+                <TD width=290 align=center id=bid colspan=4>合计总学分
+                <td width=320 align=center id=bid colspan=5><b>38</b></td>
+  </TABLE>
+  <!--
+
+          <TABLE border=0 cellspacing="0" cellpadding="1" width=600 bordercolor=#000000 ID="Table7">
+            <TR height=25>
+                <TD width=274 align=center id=bid>合计总学分
+                <td align=center id=bid><b>38</b></td>
+          </Table>
+          -->
+
+          <TABLE border=0 cellspacing="0" cellpadding="1" width=610 ID="Table6">
+            <TR height=30>
+                <TD width=315><font style="font-size:9px">单号：09080043714</font>&nbsp;&nbsp;制表：华东理工大学研究生院
+                <TD width=295>所在学院：（盖章）&nbsp;&nbsp;&nbsp;审核人：
+          </Table>
+</table>
+
+</body>
+</html>
